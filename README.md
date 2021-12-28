@@ -3,7 +3,7 @@
 ## Deteksi Penggunaan Masker Wajah di Masa Pandemi COVID-19
 
 ### Deskripsi Dataset
-Pembuatan project ini menggunakan dataset dari jurnal utama yang berasal dari Github (https://github.com/chandrikadeb7/Face-Mask-Detection). Dataset berupa kumpulan gambar menggunakan masker dan tidak menggunakan masker berjumlah 4095. Dataset dibagi menjadi dua kelas yaitu with_mask dan without_mask dengan rincian:
+Pembuatan project ini menggunakan dataset dari jurnal utama yang berasal dari Github (https://github.com/chandrikadeb7/Face-Mask-Detection/tree/master/dataset). Dataset berupa kumpulan gambar menggunakan masker dan tidak menggunakan masker berjumlah 4095. Dataset dibagi menjadi dua kelas yaitu with_mask dan without_mask dengan rincian:
   
   1. with_mask : 2165 gambar
   2. without_mask : 1930 gambar
